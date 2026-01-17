@@ -1,0 +1,61 @@
+# מנעולן בקליק — Generative Engine Optimization Map
+
+> A שירותי מנעולנות וביטחון business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-ab75b93b.zappy5.app
+שירותי מנעולן מקצועיים זמינים 24/7. פתרונות מהירים ואמינים לכל צרכי האבטחה שלכם. התקשרו עכשיו!
+
+### שירותים
+https://-ab75b93b.zappy5.app/services
+גלה את מגוון השירותים שלנו: מנעולן בחירום 24 שעות, החלפת צילינדר דלת פלדלת, שדרוג אבטחה ועוד. שירות מהיר ואמין!
+
+### אודות
+https://-ab75b93b.zappy5.app/about
+למד על מנעולן בקליק - המנעולן המומלץ באזור. שנים של ניסיון, שירות מקצועי 24/7 ומחויבות למצוינות.
+
+### צור קשר
+https://-ab75b93b.zappy5.app/contact
+צור קשר עם מנעולן בקליק - זמינים 24/7 לכל שירות. מנעולן בחירום 24 שעות, החלפת צילינדר ושדרוג אבטחה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ab75b93b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ab75b93b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ab75b93b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מנעולן בקליק
+מנעולן בקליק is a business in the שירותי מנעולנות וביטחון industry.
+
+## Target Audience
+- בעלי בתים באזורים עירוניים
+- סוכני נדל"ן
+- בעלי עסקים קטנים
+- חברות ניהול נכסים
+- שוכרי דירות חדשים
+
+## Industry
+שירותי מנעולנות וביטחון
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-ab75b93b.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-ab75b93b.zappy5.app/robots.txt
